@@ -1,0 +1,9 @@
+.cat {
+  width: 150;
+  float: right;
+  margin: auto 50% 50% auto; }
+
+.counter {
+  position: relative;
+  float: right;
+  size: 100px; }
